@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+PyAudio
+gTTS
+deep-translator
+playsound==1.2.2
