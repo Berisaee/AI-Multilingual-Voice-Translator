@@ -34,7 +34,8 @@ The application allows users to:
 * SpeechRecognition
 * Deep Translator
 * gTTS
-* PyAudio
+## Dependencies
+* PyAudio (for microphone input support)
 
 ## APIs / Services
 * Google Speech Recognition API
